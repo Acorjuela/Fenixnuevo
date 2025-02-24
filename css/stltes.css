@@ -303,7 +303,7 @@ form .button input:hover {
   width: 100%;
   height: 100%;
   overflow: hidden;
-  background: rgba(27, 69, 255, 0.32);
+  background: rgba(255, 213, 27, 0.32);
 
 }
 
@@ -314,8 +314,7 @@ form .button input:hover {
   pointer-events: auto;
   background-color: #fff;
   background-clip: padding-box;
-  border: 1px solid rgba(0, 0, 0, .2);
-  border: 8px solid #05ffd5fa;
+  border: 8px solid #ff7605fa;
   border-radius: .3rem;
   outline: 0;
   margin: 8% auto;
@@ -324,6 +323,7 @@ form .button input:hover {
   height: 60%;
   text-align: center;
 }
+
 
 .modal-content>img {
   width: 100%;
